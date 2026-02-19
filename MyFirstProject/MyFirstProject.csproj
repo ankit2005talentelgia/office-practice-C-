@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProject.AdvanceConcepts</StartupObject>
+    <StartupObject>MyFirstProject.ClassesAndObj</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="BasicsOfCSharp.cs" />
     <Compile Include="AdvanceConcept.cs" />
+    <Compile Include="ClassesAndObj.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

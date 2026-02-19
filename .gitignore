@@ -23,6 +23,10 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+MyFirstProject/.vs/
+MyFirstProject/bin/
+MyFirstProject/obj/
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json

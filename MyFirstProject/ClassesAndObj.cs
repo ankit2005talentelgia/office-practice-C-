@@ -83,6 +83,7 @@ namespace MyFirstProject
         //}
 
 
+        // private constructor
         class Students
         {
             private Students()
@@ -112,7 +113,8 @@ namespace MyFirstProject
             //  static and non static methods
             //Students s = new Students();
             //s.DisplayName();
-            //Students.DisplaySchool();
+            //Students.DisplaySchool();cls
+
 
 
             // this is shows that we cannot make a private constructor's object as it is inaccessible.
